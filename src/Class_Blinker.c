@@ -48,7 +48,7 @@ E_Blinker_Status Class_Blinker__Get_Status( const Class_Blinker* Me )
 /*============================================================================*/
 /* Received events */
 /*============================================================================*/
-void Class_Blinker__Any_Phase_Ended( const Class_Blinker* Me )
+void Class_Blinker__My_Timer__Time_Is_Up( const Class_Blinker* Me )
 {
     if( My_Status != BLINKER_STOPPED )
     {
