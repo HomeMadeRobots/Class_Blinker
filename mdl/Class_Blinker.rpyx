@@ -75,9 +75,9 @@
 			</IPropertyContainer>
 			</_properties>
 			<_name type="a">Class_Blinker</_name>
-			<_modifiedTimeWeak type="a">4.27.2020::16:57:5</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.27.2020::16:57:5</_modifiedTime>
-			<_lastID type="a">1</_lastID>
+			<_modifiedTimeWeak type="a">8.13.2020::9:23:43</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.13.2020::9:23:43</_modifiedTime>
+			<_lastID type="a">2</_lastID>
 			<_UserColors type="w">
 				<IRPYRawContainer type="e">
 					<size type="a">16</size>
@@ -160,6 +160,8 @@
 				<value>GUID bb29a72d-49ef-4089-aecf-c6eccb6b7ac8</value>
 				<value>GUID 45aa5708-7053-44e9-99a4-a4f0bc8797eb</value>
 				<value>GUID d96225a3-77ce-498e-ba8f-329e385f9b27</value>
+				<value>GUID 88f85ef3-0683-4a3e-90c0-db97a0475fd0</value>
+				<value>GUID 8f68cb50-02ff-4362-88b4-717496c4d90c</value>
 				<value>GUID bddc669e-97e5-40cd-931b-5439d1e52f4a</value>
 			</AggregatesList>
 		</IProject>
@@ -197,6 +199,16 @@
 			<_id type="a">GUID d96225a3-77ce-498e-ba8f-329e385f9b27</_id>
 			<_partOfTheModelKind type="a">referenceunit</_partOfTheModelKind>
 		</ISubsystem>
+		<IProfile type="e">
+			<fileName type="a">Software_Implementation_Metamodel</fileName>
+			<_persistAs type="a">..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles</_persistAs>
+			<_id type="a">GUID 88f85ef3-0683-4a3e-90c0-db97a0475fd0</_id>
+			<_partOfTheModelKind type="a">referenceunit</_partOfTheModelKind>
+		</IProfile>
+		<ISubsystem type="e">
+			<fileName type="a">Class_Blinker_Implementation</fileName>
+			<_id type="a">GUID 8f68cb50-02ff-4362-88b4-717496c4d90c</_id>
+		</ISubsystem>
 		<IComponent type="e">
 			<_id type="a">GUID bddc669e-97e5-40cd-931b-5439d1e52f4a</_id>
 			<_myState type="a">139264</_myState>
@@ -213,7 +225,7 @@
 			</m_configActive>
 			<HandlesInMe type="c">
 				<IRPYRawContainer type="e">
-					<size type="a">6</size>
+					<size type="a">8</size>
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IProfile</_hm2Class>
@@ -254,6 +266,20 @@
 							<_hm2Class type="a">ISubsystem</_hm2Class>
 							<_hname type="a">Class_Triggered_Timer</_hname>
 							<_hid type="a">GUID d96225a3-77ce-498e-ba8f-329e385f9b27</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IProfile</_hm2Class>
+							<_hname type="a">Software_Implementation_Metamodel</_hname>
+							<_hid type="a">GUID 88f85ef3-0683-4a3e-90c0-db97a0475fd0</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hname type="a">Class_Blinker_Implementation</_hname>
+							<_hid type="a">GUID 8f68cb50-02ff-4362-88b4-717496c4d90c</_hid>
 						</IHandle>
 					
 				</IRPYRawContainer>
