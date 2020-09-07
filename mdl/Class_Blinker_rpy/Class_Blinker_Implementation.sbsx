@@ -17,19 +17,19 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Implementation_Metamodel.sbsx</_hfilename>
-							<_hsubsystem type="a">Software_Implementation_Metamodel::Stereotypes</_hsubsystem>
-							<_hname type="a">IMPL_Package</_hname>
-							<_hid type="a">GUID 682fe33e-0545-42e4-b788-b6aab98dcd8e</_hid>
+							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Project_Metamodel.sbsx</_hfilename>
+							<_hsubsystem type="a">Project_Metamodel::Stereotypes</_hsubsystem>
+							<_hname type="a">Software_Package</_hname>
+							<_hid type="a">GUID afb0e42d-a399-4819-bb39-46f0fd0f0fbf</_hid>
 						</IHandle>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">8.13.2020::9:33:54</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.13.2020::9:33:54</_modifiedTime>
+			<_modifiedTimeWeak type="a">9.7.2020::20:11:27</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.7.2020::20:11:27</_modifiedTime>
 			<_lastID type="a">1</_lastID>
-			<weakCGTime type="a">8.13.2020::9:33:54</weakCGTime>
-			<strongCGTime type="a">8.13.2020::9:27:11</strongCGTime>
+			<weakCGTime type="a">9.7.2020::20:11:27</weakCGTime>
+			<strongCGTime type="a">9.7.2020::8:48:59</strongCGTime>
 			<_defaultComposite type="s">GUID 264cce61-86c4-4bb0-a018-1000d2061f0a</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
 			<_configurationRelatedTime type="a">8.13.2020::9:25:16</_configurationRelatedTime>
@@ -295,7 +295,7 @@
 				</Subjects>
 			</IPropertyContainer>
 			</_properties>
-			<_name type="a">DI_Class_Blinker</_name>
+			<_name type="a">ID_Class_Blinker</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">1</size>
@@ -311,8 +311,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.13.2020::9:34:6</_modifiedTime>
-			<_lastModifiedTime type="a">8.13.2020::9:34:6</_lastModifiedTime>
+			<_modifiedTime type="a">9.7.2020::20:11:27</_modifiedTime>
+			<_lastModifiedTime type="a">9.7.2020::20:11:27</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -557,6 +557,9 @@
 			<m_displayOption type="a">All</m_displayOption>
 			<m_bShowInherited type="a">0</m_bShowInherited>
 			<m_bOrdered type="a">0</m_bOrdered>
+			<_itemValueOfFontPropertiesMapCount type="a">2</_itemValueOfFontPropertiesMapCount>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 		</CGICompartment>
 		<CGIObjectInstance type="e">
 			<_id type="a">GUID 2bce2416-e885-46d1-8bbe-91052a7e0234</_id>
@@ -646,6 +649,9 @@
 			<m_displayOption type="a">All</m_displayOption>
 			<m_bShowInherited type="a">0</m_bShowInherited>
 			<m_bOrdered type="a">0</m_bOrdered>
+			<_itemValueOfFontPropertiesMapCount type="a">2</_itemValueOfFontPropertiesMapCount>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 		</CGICompartment>
 		<CGIClass type="e">
 			<_id type="a">GUID bf85dca7-9c0b-47a1-95ca-d36687aaa76a</_id>
@@ -1105,7 +1111,7 @@
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
 							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Implementation_Metamodel.sbsx</_hfilename>
-							<_hsubsystem type="a">Software_Implementation_Metamodel::Stereotypes::Files</_hsubsystem>
+							<_hsubsystem type="a">Software_Implementation_Metamodel::Stereotypes</_hsubsystem>
 							<_hname type="a">Implementation_File</_hname>
 							<_hid type="a">GUID 76068085-5ce8-416c-81a0-105fa38a041d</_hid>
 						</IHandle>
@@ -1162,7 +1168,7 @@
 							<IHandle type="e">
 								<_hm2Class type="a">IStereotype</_hm2Class>
 								<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Implementation_Metamodel.sbsx</_hfilename>
-								<_hsubsystem type="a">Software_Implementation_Metamodel::Stereotypes::Files</_hsubsystem>
+								<_hsubsystem type="a">Software_Implementation_Metamodel::Stereotypes</_hsubsystem>
 								<_hname type="a">Implemented_Element</_hname>
 								<_hid type="a">GUID e1410ed5-8b64-43ee-a054-e77fd03a4de8</_hid>
 							</IHandle>
@@ -1219,7 +1225,7 @@
 					<IHandle type="e">
 						<_hm2Class type="a">ITag</_hm2Class>
 						<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Implementation_Metamodel.sbsx</_hfilename>
-						<_hsubsystem type="a">Software_Implementation_Metamodel::Stereotypes::Files</_hsubsystem>
+						<_hsubsystem type="a">Software_Implementation_Metamodel::Stereotypes</_hsubsystem>
 						<_hclass type="a">Implementation_File</_hclass>
 						<_hname type="a">File_Name</_hname>
 						<_hid type="a">GUID b0ede556-fe02-4ae9-ae12-b64dfa7c02f0</_hid>
@@ -1236,7 +1242,6 @@
 				<_value type="a">Class_Blinker.c</_value>
 			</ILiteralSpecification>
 			</_implicitClass>
-			<_partKind type="a">Block</_partKind>
 		</IModule>
 		<IModule type="e">
 			<_id type="a">GUID e50b6436-5be1-403f-a8c8-3306fb7f73a3</_id>
@@ -1249,7 +1254,7 @@
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
 							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Implementation_Metamodel.sbsx</_hfilename>
-							<_hsubsystem type="a">Software_Implementation_Metamodel::Stereotypes::Files</_hsubsystem>
+							<_hsubsystem type="a">Software_Implementation_Metamodel::Stereotypes</_hsubsystem>
 							<_hname type="a">Implementation_File</_hname>
 							<_hid type="a">GUID 76068085-5ce8-416c-81a0-105fa38a041d</_hid>
 						</IHandle>
@@ -1307,7 +1312,7 @@
 							<IHandle type="e">
 								<_hm2Class type="a">IStereotype</_hm2Class>
 								<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Implementation_Metamodel.sbsx</_hfilename>
-								<_hsubsystem type="a">Software_Implementation_Metamodel::Stereotypes::Files</_hsubsystem>
+								<_hsubsystem type="a">Software_Implementation_Metamodel::Stereotypes</_hsubsystem>
 								<_hname type="a">Implemented_Element</_hname>
 								<_hid type="a">GUID e1410ed5-8b64-43ee-a054-e77fd03a4de8</_hid>
 							</IHandle>
@@ -1343,7 +1348,7 @@
 							<IHandle type="e">
 								<_hm2Class type="a">IStereotype</_hm2Class>
 								<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Implementation_Metamodel.sbsx</_hfilename>
-								<_hsubsystem type="a">Software_Implementation_Metamodel::Stereotypes::Files</_hsubsystem>
+								<_hsubsystem type="a">Software_Implementation_Metamodel::Stereotypes</_hsubsystem>
 								<_hname type="a">Implemented_Element</_hname>
 								<_hid type="a">GUID e1410ed5-8b64-43ee-a054-e77fd03a4de8</_hid>
 							</IHandle>
@@ -1400,7 +1405,7 @@
 					<IHandle type="e">
 						<_hm2Class type="a">ITag</_hm2Class>
 						<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Implementation_Metamodel.sbsx</_hfilename>
-						<_hsubsystem type="a">Software_Implementation_Metamodel::Stereotypes::Files</_hsubsystem>
+						<_hsubsystem type="a">Software_Implementation_Metamodel::Stereotypes</_hsubsystem>
 						<_hclass type="a">Implementation_File</_hclass>
 						<_hname type="a">File_Name</_hname>
 						<_hid type="a">GUID b0ede556-fe02-4ae9-ae12-b64dfa7c02f0</_hid>
@@ -1417,7 +1422,6 @@
 				<_value type="a">Class_Blinker.h</_value>
 			</ILiteralSpecification>
 			</_implicitClass>
-			<_partKind type="a">Block</_partKind>
 		</IModule>
 		
 	</RHAPSODY-MODEL>
