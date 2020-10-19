@@ -18,17 +18,21 @@
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
 							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Project_Metamodel.sbsx</_hfilename>
-							<_hsubsystem type="a">Project_Metamodel::Stereotypes</_hsubsystem>
+							<_hsubsystem type="a">Project_Metamodel::Common_Stereotypes</_hsubsystem>
 							<_hname type="a">Software_Package</_hname>
 							<_hid type="a">GUID afb0e42d-a399-4819-bb39-46f0fd0f0fbf</_hid>
 						</IHandle>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">9.7.2020::20:11:27</_modifiedTimeWeak>
-			<_modifiedTime type="a">9.7.2020::20:11:27</_modifiedTime>
+			<_modifiedTimeWeak type="a">10.19.2020::11:14:34</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">Gathers elements modeling the implementation in C of the class Class_Blinker.</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">10.19.2020::11:14:34</_modifiedTime>
 			<_lastID type="a">1</_lastID>
-			<weakCGTime type="a">9.7.2020::20:11:27</weakCGTime>
+			<weakCGTime type="a">10.19.2020::11:14:34</weakCGTime>
 			<strongCGTime type="a">9.7.2020::8:48:59</strongCGTime>
 			<_defaultComposite type="s">GUID 264cce61-86c4-4bb0-a018-1000d2061f0a</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>

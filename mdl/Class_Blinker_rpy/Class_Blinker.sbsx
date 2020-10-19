@@ -18,17 +18,21 @@
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
 							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Project_Metamodel.sbsx</_hfilename>
-							<_hsubsystem type="a">Project_Metamodel::Stereotypes</_hsubsystem>
+							<_hsubsystem type="a">Project_Metamodel::Common_Stereotypes</_hsubsystem>
 							<_hname type="a">Software_Package</_hname>
 							<_hid type="a">GUID afb0e42d-a399-4819-bb39-46f0fd0f0fbf</_hid>
 						</IHandle>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">9.7.2020::20:10:53</_modifiedTimeWeak>
-			<_modifiedTime type="a">9.7.2020::20:10:53</_modifiedTime>
+			<_modifiedTimeWeak type="a">10.19.2020::11:18:55</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">Gathers elements modeling the definition and the internal desing of the class Class_Blinker.</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">10.19.2020::11:18:55</_modifiedTime>
 			<_lastID type="a">14</_lastID>
-			<weakCGTime type="a">9.7.2020::20:10:53</weakCGTime>
+			<weakCGTime type="a">10.19.2020::11:18:55</weakCGTime>
 			<strongCGTime type="a">9.7.2020::8:48:47</strongCGTime>
 			<_defaultComposite type="s">GUID 659bc4d6-7040-4f22-9ffd-3f51f1470fbe</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -310,15 +314,15 @@
 							<_hm2Class type="a">IStereotype</_hm2Class>
 							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Detailed_Design_Metamodel.sbsx</_hfilename>
 							<_hsubsystem type="a">Software_Detailed_Design_Metamodel::Stereotypes::Diagrams</_hsubsystem>
-							<_hname type="a">SDD_Class_Diagram</_hname>
+							<_hname type="a">Internal_Design_Class_Diagram</_hname>
 							<_hid type="a">GUID 306a724c-fcf5-4198-8d6a-1d31c369487a</_hid>
 						</IHandle>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">9.7.2020::20:10:8</_modifiedTime>
-			<_lastModifiedTime type="a">9.7.2020::20:10:8</_lastModifiedTime>
+			<_modifiedTime type="a">10.19.2020::11:18:55</_modifiedTime>
+			<_lastModifiedTime type="a">10.19.2020::11:18:55</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -1225,7 +1229,7 @@
 			<m_direction type="a">' '</m_direction>
 			<m_rpn type="p">
 				<CGIText type="e">
-					<m_str type="a">Send_Event</m_str>
+					<m_str type="a">Sent_Event</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -1284,7 +1288,7 @@
 			<m_direction type="a">' '</m_direction>
 			<m_rpn type="p">
 				<CGIText type="e">
-					<m_str type="a">Receive_Event</m_str>
+					<m_str type="a">Received_Event</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -1570,7 +1574,7 @@
 			<m_direction type="a">' '</m_direction>
 			<m_rpn type="p">
 				<CGIText type="e">
-					<m_str type="a">Send_Event</m_str>
+					<m_str type="a">Sent_Event</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -1629,7 +1633,7 @@
 			<m_direction type="a">' '</m_direction>
 			<m_rpn type="p">
 				<CGIText type="e">
-					<m_str type="a">Send_Event</m_str>
+					<m_str type="a">Sent_Event</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -1975,15 +1979,15 @@
 							<_hm2Class type="a">IStereotype</_hm2Class>
 							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Detailed_Design_Metamodel.sbsx</_hfilename>
 							<_hsubsystem type="a">Software_Detailed_Design_Metamodel::Stereotypes::Diagrams</_hsubsystem>
-							<_hname type="a">SDD_Class_Diagram</_hname>
+							<_hname type="a">Internal_Design_Class_Diagram</_hname>
 							<_hid type="a">GUID 306a724c-fcf5-4198-8d6a-1d31c369487a</_hid>
 						</IHandle>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">9.7.2020::20:10:53</_modifiedTime>
-			<_lastModifiedTime type="a">9.7.2020::20:10:53</_lastModifiedTime>
+			<_modifiedTime type="a">10.19.2020::11:19:15</_modifiedTime>
+			<_lastModifiedTime type="a">10.19.2020::11:19:15</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -2886,7 +2890,7 @@
 			<m_direction type="a">' '</m_direction>
 			<m_rpn type="p">
 				<CGIText type="e">
-					<m_str type="a">Receive_Event</m_str>
+					<m_str type="a">Received_Event</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2948,7 +2952,7 @@
 			<m_direction type="a">' '</m_direction>
 			<m_rpn type="p">
 				<CGIText type="e">
-					<m_str type="a">Send_Event</m_str>
+					<m_str type="a">Sent_Event</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3087,7 +3091,7 @@
 			<m_direction type="a">' '</m_direction>
 			<m_rpn type="p">
 				<CGIText type="e">
-					<m_str type="a">Send_Event</m_str>
+					<m_str type="a">Sent_Event</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3226,7 +3230,7 @@
 			<m_direction type="a">' '</m_direction>
 			<m_rpn type="p">
 				<CGIText type="e">
-					<m_str type="a">Send_Event</m_str>
+					<m_str type="a">Sent_Event</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -5953,14 +5957,14 @@
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
 							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Detailed_Design_Metamodel.sbsx</_hfilename>
-							<_hsubsystem type="a">Software_Detailed_Design_Metamodel::Stereotypes::SDD_Class</_hsubsystem>
-							<_hname type="a">SDD_Class</_hname>
+							<_hsubsystem type="a">Software_Detailed_Design_Metamodel::Stereotypes::Internal_Design_Class</_hsubsystem>
+							<_hname type="a">Internal_Design_Class</_hname>
 							<_hid type="a">GUID 9db356bc-6146-4703-a6f1-f05eb819dbfa</_hid>
 						</IHandle>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">9.7.2020::20:10:4</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">10.19.2020::11:12:46</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -5972,9 +5976,9 @@
 It sends events to its user to notify any modification of phase within a blinking sequence (on or off).</_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">9.7.2020::20:10:4</_modifiedTime>
+			<_modifiedTime type="a">10.19.2020::11:12:46</_modifiedTime>
 			<_lastID type="a">19</_lastID>
-			<weakCGTime type="a">9.7.2020::20:10:4</weakCGTime>
+			<weakCGTime type="a">10.19.2020::11:12:46</weakCGTime>
 			<strongCGTime type="a">8.17.2020::13:13:2</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -6010,7 +6014,7 @@ It sends events to its user to notify any modification of phase within a blinkin
 							<_hm2Class type="a">IStereotype</_hm2Class>
 							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Detailed_Design_Metamodel.sbsx</_hfilename>
 							<_hsubsystem type="a">Software_Detailed_Design_Metamodel::Stereotypes::Shared</_hsubsystem>
-							<_hname type="a">Receive_Event</_hname>
+							<_hname type="a">Received_Event</_hname>
 							<_hid type="a">GUID bbc84abc-ada7-4082-98d4-c7ae4bd0d743</_hid>
 						</IHandle>
 					
@@ -6046,7 +6050,7 @@ It sends events to its user to notify any modification of phase within a blinkin
 							<_hm2Class type="a">IStereotype</_hm2Class>
 							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Detailed_Design_Metamodel.sbsx</_hfilename>
 							<_hsubsystem type="a">Software_Detailed_Design_Metamodel::Stereotypes::Shared</_hsubsystem>
-							<_hname type="a">Send_Event</_hname>
+							<_hname type="a">Sent_Event</_hname>
 							<_hid type="a">GUID 8d3c01aa-c9f5-4df6-91f9-66e5fd75fd0e</_hid>
 						</IHandle>
 					
@@ -6079,7 +6083,7 @@ It sends events to its user to notify any modification of phase within a blinkin
 							<_hm2Class type="a">IStereotype</_hm2Class>
 							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Detailed_Design_Metamodel.sbsx</_hfilename>
 							<_hsubsystem type="a">Software_Detailed_Design_Metamodel::Stereotypes::Shared</_hsubsystem>
-							<_hname type="a">Send_Event</_hname>
+							<_hname type="a">Sent_Event</_hname>
 							<_hid type="a">GUID 8d3c01aa-c9f5-4df6-91f9-66e5fd75fd0e</_hid>
 						</IHandle>
 					
@@ -6111,15 +6115,19 @@ It sends events to its user to notify any modification of phase within a blinkin
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
 							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Detailed_Design_Metamodel.sbsx</_hfilename>
-							<_hsubsystem type="a">Software_Detailed_Design_Metamodel::Stereotypes::SDD_Class</_hsubsystem>
-							<_hname type="a">Public_Method</_hname>
+							<_hsubsystem type="a">Software_Detailed_Design_Metamodel::Stereotypes::Internal_Design_Class</_hsubsystem>
+							<_hname type="a">Public_Operation</_hname>
 							<_hid type="a">GUID ecaa2fe0-5d3b-4cc3-9862-9159c7ea16d8</_hid>
 						</IHandle>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">8.13.2020::9:4:8</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.13.2020::9:4:8</_modifiedTime>
+			<_modifiedTimeWeak type="a">10.19.2020::11:11:32</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">Starts a blinking pattern.</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">10.19.2020::11:11:32</_modifiedTime>
 			<_lastID type="a">4</_lastID>
 			<_virtual type="a">0</_virtual>
 			<_abstract type="a">0</_abstract>
@@ -6132,10 +6140,10 @@ It sends events to its user to notify any modification of phase within a blinkin
 				<_id type="a">GUID ce8301bd-11bc-49e8-9eee-216aadbe55c7</_id>
 				<_myState type="a">8192</_myState>
 				<_name type="a">Class_Blinker__Start</_name>
-				<_modifiedTimeWeak type="a">8.13.2020::9:4:8</_modifiedTimeWeak>
-				<_modifiedTime type="a">8.13.2020::9:4:8</_modifiedTime>
+				<_modifiedTimeWeak type="a">10.19.2020::11:11:32</_modifiedTimeWeak>
+				<_modifiedTime type="a">10.19.2020::11:11:32</_modifiedTime>
 				<_lastID type="a">18</_lastID>
-				<weakCGTime type="a">8.13.2020::9:4:8</weakCGTime>
+				<weakCGTime type="a">10.19.2020::11:11:32</weakCGTime>
 				<strongCGTime type="a">4.28.2020::9:26:3</strongCGTime>
 				<_itsStateChart type="r">
 					<IHandle type="e">
@@ -6369,7 +6377,7 @@ It sends events to its user to notify any modification of phase within a blinkin
 					<IHandle type="e">
 						<_hm2Class type="a">IType</_hm2Class>
 						<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
-						<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
+						<_hsubsystem type="a">Software_Data_Type_Metamodel::Basic_Data_Types</_hsubsystem>
 						<_hname type="a">uint16</_hname>
 						<_hid type="a">GUID 0d6a9487-2e1a-4d71-8dcb-52824fa8170d</_hid>
 					</IHandle>
@@ -6391,7 +6399,7 @@ It sends events to its user to notify any modification of phase within a blinkin
 					<IHandle type="e">
 						<_hm2Class type="a">IType</_hm2Class>
 						<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
-						<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
+						<_hsubsystem type="a">Software_Data_Type_Metamodel::Basic_Data_Types</_hsubsystem>
 						<_hname type="a">uint16</_hname>
 						<_hid type="a">GUID 0d6a9487-2e1a-4d71-8dcb-52824fa8170d</_hid>
 					</IHandle>
@@ -6413,7 +6421,7 @@ It sends events to its user to notify any modification of phase within a blinkin
 					<IHandle type="e">
 						<_hm2Class type="a">IType</_hm2Class>
 						<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
-						<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
+						<_hsubsystem type="a">Software_Data_Type_Metamodel::Basic_Data_Types</_hsubsystem>
 						<_hname type="a">uint16</_hname>
 						<_hid type="a">GUID 0d6a9487-2e1a-4d71-8dcb-52824fa8170d</_hid>
 					</IHandle>
@@ -6435,7 +6443,7 @@ It sends events to its user to notify any modification of phase within a blinkin
 					<IHandle type="e">
 						<_hm2Class type="a">IType</_hm2Class>
 						<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
-						<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
+						<_hsubsystem type="a">Software_Data_Type_Metamodel::Basic_Data_Types</_hsubsystem>
 						<_hname type="a">uint16</_hname>
 						<_hid type="a">GUID 0d6a9487-2e1a-4d71-8dcb-52824fa8170d</_hid>
 					</IHandle>
@@ -6457,7 +6465,7 @@ It sends events to its user to notify any modification of phase within a blinkin
 					<IHandle type="e">
 						<_hm2Class type="a">IType</_hm2Class>
 						<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
-						<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
+						<_hsubsystem type="a">Software_Data_Type_Metamodel::Basic_Data_Types</_hsubsystem>
 						<_hname type="a">uint16</_hname>
 						<_hid type="a">GUID 0d6a9487-2e1a-4d71-8dcb-52824fa8170d</_hid>
 					</IHandle>
@@ -6479,7 +6487,7 @@ It sends events to its user to notify any modification of phase within a blinkin
 					<IHandle type="e">
 						<_hm2Class type="a">IType</_hm2Class>
 						<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
-						<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
+						<_hsubsystem type="a">Software_Data_Type_Metamodel::Basic_Data_Types</_hsubsystem>
 						<_hname type="a">uint16</_hname>
 						<_hid type="a">GUID 0d6a9487-2e1a-4d71-8dcb-52824fa8170d</_hid>
 					</IHandle>
@@ -6886,9 +6894,9 @@ Off_Time = off_time</_body>
 				</IPropertyContainer>
 				</_properties>
 				<_name type="a">activitydiagram_0</_name>
-				<_modifiedTimeWeak type="a">8.13.2020::9:4:8</_modifiedTimeWeak>
-				<_modifiedTime type="a">8.13.2020::9:4:8</_modifiedTime>
-				<_lastModifiedTime type="a">8.13.2020::9:4:8</_lastModifiedTime>
+				<_modifiedTimeWeak type="a">10.19.2020::11:11:32</_modifiedTimeWeak>
+				<_modifiedTime type="a">10.19.2020::11:11:32</_modifiedTime>
+				<_lastModifiedTime type="a">10.19.2020::11:11:32</_lastModifiedTime>
 				<m_hReferencedDiagram type="r">
 					<IHandle type="e">
 					</IHandle>
@@ -7936,13 +7944,17 @@ Off_Time = off_time</_body>
 			<_id type="a">GUID 770449bd-0434-430b-b2aa-4febfed62d75</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">nb_periods</_name>
-			<_modifiedTimeWeak type="a">4.27.2020::16:56:7</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.27.2020::16:56:7</_modifiedTime>
+			<_modifiedTimeWeak type="a">10.19.2020::11:8:9</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">Number of blinking sequences. If it set to 0, the pattern is infinite.</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">10.19.2020::11:8:9</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
 					<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
-					<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
+					<_hsubsystem type="a">Software_Data_Type_Metamodel::Basic_Data_Types</_hsubsystem>
 					<_hname type="a">uint16</_hname>
 					<_hid type="a">GUID 0d6a9487-2e1a-4d71-8dcb-52824fa8170d</_hid>
 				</IHandle>
@@ -7954,13 +7966,17 @@ Off_Time = off_time</_body>
 			<_id type="a">GUID e6bd30e0-2c16-4acc-868b-1d88d3fbfb89</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">on_time</_name>
-			<_modifiedTimeWeak type="a">4.27.2020::16:56:17</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.27.2020::16:56:17</_modifiedTime>
+			<_modifiedTimeWeak type="a">10.19.2020::11:9:30</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">Duration of the &quot;ON&quot; phase in millisecond.</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">10.19.2020::11:9:30</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
 					<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
-					<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
+					<_hsubsystem type="a">Software_Data_Type_Metamodel::Basic_Data_Types</_hsubsystem>
 					<_hname type="a">uint16</_hname>
 					<_hid type="a">GUID 0d6a9487-2e1a-4d71-8dcb-52824fa8170d</_hid>
 				</IHandle>
@@ -7972,13 +7988,17 @@ Off_Time = off_time</_body>
 			<_id type="a">GUID 3626ac50-a69d-403d-9c7d-556eeae496fc</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">off_time</_name>
-			<_modifiedTimeWeak type="a">4.27.2020::16:56:28</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.27.2020::16:56:28</_modifiedTime>
+			<_modifiedTimeWeak type="a">10.19.2020::11:9:43</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">Duration of the &quot;OFF&quot; phase in millisecond.</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">10.19.2020::11:9:43</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
 					<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
-					<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
+					<_hsubsystem type="a">Software_Data_Type_Metamodel::Basic_Data_Types</_hsubsystem>
 					<_hname type="a">uint16</_hname>
 					<_hid type="a">GUID 0d6a9487-2e1a-4d71-8dcb-52824fa8170d</_hid>
 				</IHandle>
@@ -8004,15 +8024,19 @@ Off_Time = off_time</_body>
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
 							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Detailed_Design_Metamodel.sbsx</_hfilename>
-							<_hsubsystem type="a">Software_Detailed_Design_Metamodel::Stereotypes::SDD_Class</_hsubsystem>
-							<_hname type="a">Public_Method</_hname>
+							<_hsubsystem type="a">Software_Detailed_Design_Metamodel::Stereotypes::Internal_Design_Class</_hsubsystem>
+							<_hname type="a">Public_Operation</_hname>
 							<_hid type="a">GUID ecaa2fe0-5d3b-4cc3-9862-9159c7ea16d8</_hid>
 						</IHandle>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">8.13.2020::9:4:12</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.13.2020::9:4:12</_modifiedTime>
+			<_modifiedTimeWeak type="a">10.19.2020::11:10:5</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">Stops the blinking pattern.</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">10.19.2020::11:10:5</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<_virtual type="a">0</_virtual>
 			<Args type="c">
@@ -9316,15 +9340,19 @@ Off_Time = off_time</_body>
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
 							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Detailed_Design_Metamodel.sbsx</_hfilename>
-							<_hsubsystem type="a">Software_Detailed_Design_Metamodel::Stereotypes::SDD_Class</_hsubsystem>
-							<_hname type="a">Public_Method</_hname>
+							<_hsubsystem type="a">Software_Detailed_Design_Metamodel::Stereotypes::Internal_Design_Class</_hsubsystem>
+							<_hname type="a">Public_Operation</_hname>
 							<_hid type="a">GUID ecaa2fe0-5d3b-4cc3-9862-9159c7ea16d8</_hid>
 						</IHandle>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">8.13.2020::9:4:16</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.13.2020::9:4:16</_modifiedTime>
+			<_modifiedTimeWeak type="a">10.19.2020::11:10:16</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">Returns the current status of the blinker.</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">10.19.2020::11:10:16</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_virtual type="a">0</_virtual>
 			<_abstract type="a">0</_abstract>
@@ -10428,8 +10456,12 @@ Off_Time = off_time</_body>
 			<_id type="a">GUID b48d4112-ed74-4f83-ad59-6e227122b7fd</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">status</_name>
-			<_modifiedTimeWeak type="a">4.27.2020::16:58:5</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.27.2020::16:58:5</_modifiedTime>
+			<_modifiedTimeWeak type="a">10.19.2020::11:10:16</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">Current status of the blinker.</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">10.19.2020::11:10:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -10457,15 +10489,20 @@ Off_Time = off_time</_body>
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
 							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Detailed_Design_Metamodel.sbsx</_hfilename>
-							<_hsubsystem type="a">Software_Detailed_Design_Metamodel::Stereotypes::SDD_Class</_hsubsystem>
-							<_hname type="a">Private_Method</_hname>
-							<_hid type="a">GUID 6db49990-fbcb-4572-8e07-b11631cc19c2</_hid>
+							<_hsubsystem type="a">Software_Detailed_Design_Metamodel::Stereotypes::Shared</_hsubsystem>
+							<_hname type="a">Private_Operation</_hname>
+							<_hid type="a">GUID f83e5855-ba0a-49b4-a839-2d1cddc54bd8</_hid>
 						</IHandle>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">8.13.2020::11:20:18</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.13.2020::11:20:18</_modifiedTime>
+			<_modifiedTimeWeak type="a">10.19.2020::11:11:32</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">Update the blinker status and manage My_Timer to start on &quot;ON&quot; phase.%0D
+Used to factorize behavior.</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">10.19.2020::11:11:32</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<_virtual type="a">0</_virtual>
 			<Args type="c">
@@ -10483,10 +10520,10 @@ Off_Time = off_time</_body>
 				<_id type="a">GUID b8d0a50f-c6fe-49e6-8b23-318656330b70</_id>
 				<_myState type="a">8192</_myState>
 				<_name type="a">Class_Blinker__Begin_On_Phase</_name>
-				<_modifiedTimeWeak type="a">8.13.2020::11:20:18</_modifiedTimeWeak>
-				<_modifiedTime type="a">8.13.2020::11:20:18</_modifiedTime>
+				<_modifiedTimeWeak type="a">9.17.2020::7:34:0</_modifiedTimeWeak>
+				<_modifiedTime type="a">9.17.2020::7:34:0</_modifiedTime>
 				<_lastID type="a">2</_lastID>
-				<weakCGTime type="a">8.13.2020::11:20:18</weakCGTime>
+				<weakCGTime type="a">9.17.2020::7:34:0</weakCGTime>
 				<strongCGTime type="a">4.28.2020::10:2:34</strongCGTime>
 				<_itsStateChart type="r">
 					<IHandle type="e">
@@ -11016,9 +11053,9 @@ Off_Time = off_time</_body>
 				</IPropertyContainer>
 				</_properties>
 				<_name type="a">activitydiagram_0</_name>
-				<_modifiedTimeWeak type="a">8.13.2020::11:20:18</_modifiedTimeWeak>
-				<_modifiedTime type="a">8.13.2020::11:20:18</_modifiedTime>
-				<_lastModifiedTime type="a">8.13.2020::11:20:18</_lastModifiedTime>
+				<_modifiedTimeWeak type="a">9.17.2020::7:34:0</_modifiedTimeWeak>
+				<_modifiedTime type="a">9.17.2020::7:34:9</_modifiedTime>
+				<_lastModifiedTime type="a">9.17.2020::7:34:9</_lastModifiedTime>
 				<m_hReferencedDiagram type="r">
 					<IHandle type="e">
 					</IHandle>
@@ -11737,15 +11774,20 @@ Off_Time = off_time</_body>
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
 							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Detailed_Design_Metamodel.sbsx</_hfilename>
-							<_hsubsystem type="a">Software_Detailed_Design_Metamodel::Stereotypes::SDD_Class</_hsubsystem>
-							<_hname type="a">Private_Method</_hname>
-							<_hid type="a">GUID 6db49990-fbcb-4572-8e07-b11631cc19c2</_hid>
+							<_hsubsystem type="a">Software_Detailed_Design_Metamodel::Stereotypes::Shared</_hsubsystem>
+							<_hname type="a">Private_Operation</_hname>
+							<_hid type="a">GUID f83e5855-ba0a-49b4-a839-2d1cddc54bd8</_hid>
 						</IHandle>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">8.13.2020::11:20:18</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.13.2020::11:20:18</_modifiedTime>
+			<_modifiedTimeWeak type="a">10.19.2020::11:11:43</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a"> Update the blinker status and manage My_Timer to start on &quot;OFF&quot; phase.%0D
+Used to factorize behavior.</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">10.19.2020::11:11:43</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<_virtual type="a">0</_virtual>
 			<Args type="c">
@@ -11763,10 +11805,10 @@ Off_Time = off_time</_body>
 				<_id type="a">GUID c1dc7ae0-0551-4b01-9a80-d81a58aa6e3c</_id>
 				<_myState type="a">8192</_myState>
 				<_name type="a">Class_Blinker__Begin_Off_Phase</_name>
-				<_modifiedTimeWeak type="a">8.13.2020::11:20:18</_modifiedTimeWeak>
-				<_modifiedTime type="a">8.13.2020::11:20:18</_modifiedTime>
+				<_modifiedTimeWeak type="a">9.17.2020::7:34:4</_modifiedTimeWeak>
+				<_modifiedTime type="a">9.17.2020::7:34:4</_modifiedTime>
 				<_lastID type="a">2</_lastID>
-				<weakCGTime type="a">8.13.2020::11:20:18</weakCGTime>
+				<weakCGTime type="a">9.17.2020::7:34:4</weakCGTime>
 				<strongCGTime type="a">4.28.2020::10:2:55</strongCGTime>
 				<_itsStateChart type="r">
 					<IHandle type="e">
@@ -12296,9 +12338,9 @@ Off_Time = off_time</_body>
 				</IPropertyContainer>
 				</_properties>
 				<_name type="a">activitydiagram_0</_name>
-				<_modifiedTimeWeak type="a">8.13.2020::11:20:18</_modifiedTimeWeak>
-				<_modifiedTime type="a">8.13.2020::11:20:18</_modifiedTime>
-				<_lastModifiedTime type="a">8.13.2020::11:20:18</_lastModifiedTime>
+				<_modifiedTimeWeak type="a">9.17.2020::7:34:4</_modifiedTimeWeak>
+				<_modifiedTime type="a">9.17.2020::7:34:15</_modifiedTime>
+				<_lastModifiedTime type="a">9.17.2020::7:34:15</_lastModifiedTime>
 				<m_hReferencedDiagram type="r">
 					<IHandle type="e">
 					</IHandle>
@@ -13010,11 +13052,6 @@ Off_Time = off_time</_body>
 			<_id type="a">GUID bc6f1386-c107-44c8-b5f9-7a3c340b5484</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Time_Is_Up</_name>
-			<OwnedDependencies type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</OwnedDependencies>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">1</size>
@@ -13022,15 +13059,19 @@ Off_Time = off_time</_body>
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
 							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Detailed_Design_Metamodel.sbsx</_hfilename>
-							<_hsubsystem type="a">Software_Detailed_Design_Metamodel::Stereotypes::SDD_Class</_hsubsystem>
+							<_hsubsystem type="a">Software_Detailed_Design_Metamodel::Stereotypes::Shared</_hsubsystem>
 							<_hname type="a">Event_Reception</_hname>
 							<_hid type="a">GUID 92c0d054-4885-4324-a809-168f50241810</_hid>
 						</IHandle>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">9.7.2020::20:10:4</_modifiedTimeWeak>
-			<_modifiedTime type="a">9.7.2020::20:10:4</_modifiedTime>
+			<_modifiedTimeWeak type="a">10.19.2020::11:11:43</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">Event reception of the associated Class_Triggered_Timer event Time_Is_Up.</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">10.19.2020::11:11:43</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<_virtual type="a">0</_virtual>
 			<Args type="c">
@@ -13048,10 +13089,10 @@ Off_Time = off_time</_body>
 				<_id type="a">GUID 7c189dc7-4120-4a76-99ea-3d15f0d6eff4</_id>
 				<_myState type="a">8192</_myState>
 				<_name type="a">My_Timer__Time_Is_Up</_name>
-				<_modifiedTimeWeak type="a">9.7.2020::8:52:37</_modifiedTimeWeak>
-				<_modifiedTime type="a">9.7.2020::8:52:50</_modifiedTime>
+				<_modifiedTimeWeak type="a">10.19.2020::11:11:43</_modifiedTimeWeak>
+				<_modifiedTime type="a">10.19.2020::11:11:43</_modifiedTime>
 				<_lastID type="a">43</_lastID>
-				<weakCGTime type="a">9.7.2020::8:52:37</weakCGTime>
+				<weakCGTime type="a">10.19.2020::11:11:43</weakCGTime>
 				<strongCGTime type="a">8.17.2020::13:13:2</strongCGTime>
 				<_itsStateChart type="r">
 					<IHandle type="e">
@@ -13059,7 +13100,7 @@ Off_Time = off_time</_body>
 				</_itsStateChart>
 				<_classModifier type="a">Unspecified</_classModifier>
 				<_defNumber type="a">11</_defNumber>
-				<_version type="a">9.7.2020::10:52:50</_version>
+				<_version type="a">10.19.2020::13:11:43</_version>
 				<_baseVersion type="a">1.2.1990::0:0:0</_baseVersion>
 				<_diagram type="s">GUID d73a6bee-d9eb-4637-b365-510da055d9b2</_diagram>
 				<AggregatesList type="e">
@@ -13908,16 +13949,16 @@ Off_Time = off_time</_body>
 			<ICallOperation type="e">
 				<_id type="a">GUID f2961be0-df77-414e-b009-3de10819647c</_id>
 				<_name type="a">Call_Begin_Off_Phase</_name>
-				<_modifiedTimeWeak type="a">8.13.2020::9:15:9</_modifiedTimeWeak>
-				<_modifiedTime type="a">8.13.2020::9:15:9</_modifiedTime>
+				<_modifiedTimeWeak type="a">10.19.2020::11:11:43</_modifiedTimeWeak>
+				<_modifiedTime type="a">10.19.2020::11:11:43</_modifiedTime>
 				<_parent type="s">GUID 47cff3bb-9461-4e67-9c94-57c347e27910</_parent>
 				<_stateType type="a">CallOperation</_stateType>
 				<_defaultTrans type="s"></_defaultTrans>
 				<_entryAction type="p"><ISendAction type="e">
 					<_id type="a">GUID 9d723931-b4ff-4ca5-9c65-ce6a44b7594e</_id>
 					<_myState type="a">4096</_myState>
-					<_modifiedTimeWeak type="a">8.13.2020::9:8:53</_modifiedTimeWeak>
-					<_modifiedTime type="a">8.13.2020::9:8:53</_modifiedTime>
+					<_modifiedTimeWeak type="a">10.19.2020::11:11:43</_modifiedTimeWeak>
+					<_modifiedTime type="a">10.19.2020::11:11:43</_modifiedTime>
 					<m_hTarget type="r">
 						<IHandle type="e">
 						</IHandle>
@@ -14032,16 +14073,16 @@ Off_Time = off_time</_body>
 			<ICallOperation type="e">
 				<_id type="a">GUID 0edd907d-013d-4127-9ec9-af991084f623</_id>
 				<_name type="a">Call_Begin_On_Phase</_name>
-				<_modifiedTimeWeak type="a">8.13.2020::9:15:43</_modifiedTimeWeak>
-				<_modifiedTime type="a">8.13.2020::9:15:43</_modifiedTime>
+				<_modifiedTimeWeak type="a">10.19.2020::11:11:32</_modifiedTimeWeak>
+				<_modifiedTime type="a">10.19.2020::11:11:32</_modifiedTime>
 				<_parent type="s">GUID 47cff3bb-9461-4e67-9c94-57c347e27910</_parent>
 				<_stateType type="a">CallOperation</_stateType>
 				<_defaultTrans type="s"></_defaultTrans>
 				<_entryAction type="p"><ISendAction type="e">
 					<_id type="a">GUID 8f9216b8-b8b9-4787-8901-e615c9110b3c</_id>
 					<_myState type="a">4096</_myState>
-					<_modifiedTimeWeak type="a">8.13.2020::9:8:48</_modifiedTimeWeak>
-					<_modifiedTime type="a">8.13.2020::9:8:48</_modifiedTime>
+					<_modifiedTimeWeak type="a">10.19.2020::11:11:32</_modifiedTimeWeak>
+					<_modifiedTime type="a">10.19.2020::11:11:32</_modifiedTime>
 					<m_hTarget type="r">
 						<IHandle type="e">
 						</IHandle>
@@ -14601,9 +14642,9 @@ Off_Time = off_time</_body>
 				</IPropertyContainer>
 				</_properties>
 				<_name type="a">activitydiagram_0</_name>
-				<_modifiedTimeWeak type="a">9.7.2020::8:51:21</_modifiedTimeWeak>
-				<_modifiedTime type="a">9.7.2020::8:52:50</_modifiedTime>
-				<_lastModifiedTime type="a">9.7.2020::8:52:50</_lastModifiedTime>
+				<_modifiedTimeWeak type="a">10.19.2020::11:11:32</_modifiedTimeWeak>
+				<_modifiedTime type="a">10.19.2020::11:11:43</_modifiedTime>
+				<_lastModifiedTime type="a">10.19.2020::11:11:43</_lastModifiedTime>
 				<m_hReferencedDiagram type="r">
 					<IHandle type="e">
 					</IHandle>
@@ -17421,20 +17462,24 @@ Off_Time = off_time</_body>
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
 							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Detailed_Design_Metamodel.sbsx</_hfilename>
-							<_hsubsystem type="a">Software_Detailed_Design_Metamodel::Stereotypes::SDD_Class</_hsubsystem>
+							<_hsubsystem type="a">Software_Detailed_Design_Metamodel::Stereotypes::Shared</_hsubsystem>
 							<_hname type="a">Variable_Attribute</_hname>
 							<_hid type="a">GUID 1ab5b469-21ae-4135-9ec4-5adfcbba6a24</_hid>
 						</IHandle>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">8.13.2020::9:3:37</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.13.2020::9:3:37</_modifiedTime>
+			<_modifiedTimeWeak type="a">10.19.2020::11:12:41</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">Duration of the &quot;off&quot; phase of the current blinking period.</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">10.19.2020::11:12:41</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
 					<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
-					<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
+					<_hsubsystem type="a">Software_Data_Type_Metamodel::Basic_Data_Types</_hsubsystem>
 					<_hname type="a">uint16</_hname>
 					<_hid type="a">GUID 0d6a9487-2e1a-4d71-8dcb-52824fa8170d</_hid>
 				</IHandle>
@@ -17456,20 +17501,24 @@ Off_Time = off_time</_body>
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
 							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Detailed_Design_Metamodel.sbsx</_hfilename>
-							<_hsubsystem type="a">Software_Detailed_Design_Metamodel::Stereotypes::SDD_Class</_hsubsystem>
+							<_hsubsystem type="a">Software_Detailed_Design_Metamodel::Stereotypes::Shared</_hsubsystem>
 							<_hname type="a">Variable_Attribute</_hname>
 							<_hid type="a">GUID 1ab5b469-21ae-4135-9ec4-5adfcbba6a24</_hid>
 						</IHandle>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">8.13.2020::9:3:41</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.13.2020::9:3:41</_modifiedTime>
+			<_modifiedTimeWeak type="a">10.19.2020::11:12:46</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">Duration of the &quot;on&quot; phase oft he current blinking period.</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">10.19.2020::11:12:46</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
 					<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
-					<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
+					<_hsubsystem type="a">Software_Data_Type_Metamodel::Basic_Data_Types</_hsubsystem>
 					<_hname type="a">uint16</_hname>
 					<_hid type="a">GUID 0d6a9487-2e1a-4d71-8dcb-52824fa8170d</_hid>
 				</IHandle>
@@ -17491,22 +17540,23 @@ Off_Time = off_time</_body>
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
 							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Detailed_Design_Metamodel.sbsx</_hfilename>
-							<_hsubsystem type="a">Software_Detailed_Design_Metamodel::Stereotypes::SDD_Class</_hsubsystem>
+							<_hsubsystem type="a">Software_Detailed_Design_Metamodel::Stereotypes::Shared</_hsubsystem>
 							<_hname type="a">Variable_Attribute</_hname>
 							<_hid type="a">GUID 1ab5b469-21ae-4135-9ec4-5adfcbba6a24</_hid>
 						</IHandle>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">8.13.2020::9:3:44</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.13.2020::9:3:44</_modifiedTime>
+			<_modifiedTimeWeak type="a">10.19.2020::11:3:4</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">Current status of the blinker.</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">10.19.2020::11:3:4</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
-					<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
-					<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
-					<_hname type="a">uint16</_hname>
-					<_hid type="a">GUID 0d6a9487-2e1a-4d71-8dcb-52824fa8170d</_hid>
+					<_hid type="a">GUID b3d63441-f7fb-4890-8b70-bc5ff899cef6</_hid>
 				</IHandle>
 			</_typeOf>
 			<_isOrdered type="a">0</_isOrdered>
@@ -17526,19 +17576,26 @@ Off_Time = off_time</_body>
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
 							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Detailed_Design_Metamodel.sbsx</_hfilename>
-							<_hsubsystem type="a">Software_Detailed_Design_Metamodel::Stereotypes::SDD_Class</_hsubsystem>
+							<_hsubsystem type="a">Software_Detailed_Design_Metamodel::Stereotypes::Shared</_hsubsystem>
 							<_hname type="a">Variable_Attribute</_hname>
 							<_hid type="a">GUID 1ab5b469-21ae-4135-9ec4-5adfcbba6a24</_hid>
 						</IHandle>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">8.13.2020::9:3:47</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.13.2020::9:3:47</_modifiedTime>
+			<_modifiedTimeWeak type="a">10.19.2020::11:4:13</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">Number of periods to realize before the blinker stop.</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">10.19.2020::11:4:13</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
-					<_hid type="a">GUID b3d63441-f7fb-4890-8b70-bc5ff899cef6</_hid>
+					<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
+					<_hsubsystem type="a">Software_Data_Type_Metamodel::Basic_Data_Types</_hsubsystem>
+					<_hname type="a">uint16</_hname>
+					<_hid type="a">GUID 0d6a9487-2e1a-4d71-8dcb-52824fa8170d</_hid>
 				</IHandle>
 			</_typeOf>
 			<_isOrdered type="a">0</_isOrdered>
@@ -17664,12 +17721,12 @@ Off_Time = off_time</_body>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">8.13.2020::9:29:42</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">10.19.2020::11:17:3</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">Allows to model a data representing the status of a blinker.</_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">8.13.2020::9:29:42</_modifiedTime>
+			<_modifiedTime type="a">10.19.2020::11:17:3</_modifiedTime>
 			<_lastID type="a">3</_lastID>
 			<_kind type="a">Enumeration</_kind>
 			<AggregatesList type="e">
@@ -17681,20 +17738,32 @@ Off_Time = off_time</_body>
 		<IEnumerationLiteral type="e">
 			<_id type="a">GUID 01d7c4dc-a37c-4b56-93cc-f8e1ef36efee</_id>
 			<_name type="a">BLINKER_RUNNING_ON</_name>
-			<_modifiedTimeWeak type="a">4.27.2020::16:57:38</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.27.2020::16:57:38</_modifiedTime>
+			<_modifiedTimeWeak type="a">10.19.2020::11:16:21</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">The blinker is in the &quot;on&quot; phase of a blinking period.</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">10.19.2020::11:16:21</_modifiedTime>
 		</IEnumerationLiteral>
 		<IEnumerationLiteral type="e">
 			<_id type="a">GUID 2cf3cea7-f2eb-4571-8df4-b15a9098f1c0</_id>
 			<_name type="a">BLINKER_RUNNING_OFF</_name>
-			<_modifiedTimeWeak type="a">4.27.2020::16:57:41</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.27.2020::16:57:41</_modifiedTime>
+			<_modifiedTimeWeak type="a">10.19.2020::11:17:3</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">The blinker is in the &quot;off&quot; phase of a blinking period.</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">10.19.2020::11:17:3</_modifiedTime>
 		</IEnumerationLiteral>
 		<IEnumerationLiteral type="e">
 			<_id type="a">GUID 218009f6-be0d-417b-b0ac-199f92a85915</_id>
 			<_name type="a">BLINKER_STOPPED</_name>
-			<_modifiedTimeWeak type="a">4.27.2020::16:57:43</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.27.2020::16:57:43</_modifiedTime>
+			<_modifiedTimeWeak type="a">10.19.2020::11:15:50</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">The blinker is stopped.</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">10.19.2020::11:15:50</_modifiedTime>
 		</IEnumerationLiteral>
 		
 	</RHAPSODY-MODEL>
