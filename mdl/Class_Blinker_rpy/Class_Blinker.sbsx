@@ -25,14 +25,14 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">10.19.2020::11:18:55</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">11.30.2020::14:26:9</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">Gathers elements modeling the definition and the internal desing of the class Class_Blinker.</_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">10.19.2020::11:18:55</_modifiedTime>
+			<_modifiedTime type="a">11.30.2020::14:26:9</_modifiedTime>
 			<_lastID type="a">14</_lastID>
-			<weakCGTime type="a">10.19.2020::11:18:55</weakCGTime>
+			<weakCGTime type="a">11.30.2020::14:26:9</weakCGTime>
 			<strongCGTime type="a">9.7.2020::8:48:47</strongCGTime>
 			<_defaultComposite type="s">GUID 659bc4d6-7040-4f22-9ffd-3f51f1470fbe</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -321,8 +321,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">10.19.2020::11:18:55</_modifiedTime>
-			<_lastModifiedTime type="a">10.19.2020::11:18:55</_lastModifiedTime>
+			<_modifiedTime type="a">11.30.2020::14:26:30</_modifiedTime>
+			<_lastModifiedTime type="a">11.30.2020::14:26:30</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -1986,8 +1986,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">10.19.2020::11:19:15</_modifiedTime>
-			<_lastModifiedTime type="a">10.19.2020::11:19:15</_lastModifiedTime>
+			<_modifiedTime type="a">11.30.2020::14:26:30</_modifiedTime>
+			<_lastModifiedTime type="a">11.30.2020::14:26:30</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -5964,7 +5964,7 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">10.19.2020::11:12:46</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">11.30.2020::14:26:30</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -5976,9 +5976,9 @@
 It sends events to its user to notify any modification of phase within a blinking sequence (on or off).</_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">10.19.2020::11:12:46</_modifiedTime>
+			<_modifiedTime type="a">11.30.2020::14:26:30</_modifiedTime>
 			<_lastID type="a">19</_lastID>
-			<weakCGTime type="a">10.19.2020::11:12:46</weakCGTime>
+			<weakCGTime type="a">11.30.2020::14:26:30</weakCGTime>
 			<strongCGTime type="a">8.17.2020::13:13:2</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -17469,12 +17469,12 @@ Used to factorize behavior.</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">10.19.2020::11:12:41</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">11.30.2020::14:26:9</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">Duration of the &quot;off&quot; phase of the current blinking period.</_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">10.19.2020::11:12:41</_modifiedTime>
+			<_modifiedTime type="a">11.30.2020::14:26:9</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -17489,7 +17489,16 @@ Used to factorize behavior.</_text>
 			<_static type="a">0</_static>
 			<_isReferenceAttr type="a">0</_isReferenceAttr>
 			<_isConstant type="a">0</_isConstant>
+			<AggregatesList type="e">
+				<value>GUID ac5b0013-1bb8-4458-86f6-e3b1d5be7420</value>
+			</AggregatesList>
 		</IAttribute>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID ac5b0013-1bb8-4458-86f6-e3b1d5be7420</_id>
+			<_modifiedTimeWeak type="a">11.30.2020::14:26:9</_modifiedTimeWeak>
+			<_modifiedTime type="a">11.30.2020::14:26:9</_modifiedTime>
+			<_value type="a">0</_value>
+		</ILiteralSpecification>
 		<IAttribute type="e">
 			<_id type="a">GUID 53e4429c-0b2d-4a28-bc28-406b086a5aec</_id>
 			<_myState type="a">8192</_myState>
@@ -17508,12 +17517,12 @@ Used to factorize behavior.</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">10.19.2020::11:12:46</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">11.30.2020::14:26:11</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">Duration of the &quot;on&quot; phase oft he current blinking period.</_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">10.19.2020::11:12:46</_modifiedTime>
+			<_modifiedTime type="a">11.30.2020::14:26:11</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -17528,7 +17537,16 @@ Used to factorize behavior.</_text>
 			<_static type="a">0</_static>
 			<_isReferenceAttr type="a">0</_isReferenceAttr>
 			<_isConstant type="a">0</_isConstant>
+			<AggregatesList type="e">
+				<value>GUID cb6212c6-31f2-43f6-b59e-48619a23f62a</value>
+			</AggregatesList>
 		</IAttribute>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID cb6212c6-31f2-43f6-b59e-48619a23f62a</_id>
+			<_modifiedTimeWeak type="a">11.30.2020::14:26:11</_modifiedTimeWeak>
+			<_modifiedTime type="a">11.30.2020::14:26:11</_modifiedTime>
+			<_value type="a">0</_value>
+		</ILiteralSpecification>
 		<IAttribute type="e">
 			<_id type="a">GUID 9a5504b5-f4ff-467f-8699-0df3673cec19</_id>
 			<_myState type="a">8192</_myState>
@@ -17547,12 +17565,12 @@ Used to factorize behavior.</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">10.19.2020::11:3:4</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">11.30.2020::14:26:26</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">Current status of the blinker.</_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">10.19.2020::11:3:4</_modifiedTime>
+			<_modifiedTime type="a">11.30.2020::14:26:26</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -17564,7 +17582,16 @@ Used to factorize behavior.</_text>
 			<_static type="a">0</_static>
 			<_isReferenceAttr type="a">0</_isReferenceAttr>
 			<_isConstant type="a">0</_isConstant>
+			<AggregatesList type="e">
+				<value>GUID 26b257e5-f2f3-4787-9cac-cdaeb19f66bf</value>
+			</AggregatesList>
 		</IAttribute>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID 26b257e5-f2f3-4787-9cac-cdaeb19f66bf</_id>
+			<_modifiedTimeWeak type="a">11.30.2020::14:26:26</_modifiedTimeWeak>
+			<_modifiedTime type="a">11.30.2020::14:26:26</_modifiedTime>
+			<_value type="a">BLINKER_STOPPED</_value>
+		</ILiteralSpecification>
 		<IAttribute type="e">
 			<_id type="a">GUID 9b8aba4a-4815-4143-9653-f777fa42a7cf</_id>
 			<_myState type="a">8192</_myState>
@@ -17583,12 +17610,12 @@ Used to factorize behavior.</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">10.19.2020::11:4:13</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">11.30.2020::14:26:30</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">Number of periods to realize before the blinker stop.</_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">10.19.2020::11:4:13</_modifiedTime>
+			<_modifiedTime type="a">11.30.2020::14:26:30</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -17603,7 +17630,16 @@ Used to factorize behavior.</_text>
 			<_static type="a">0</_static>
 			<_isReferenceAttr type="a">0</_isReferenceAttr>
 			<_isConstant type="a">0</_isConstant>
+			<AggregatesList type="e">
+				<value>GUID 9367b266-10ce-4650-920f-8ffce4b9b0c9</value>
+			</AggregatesList>
 		</IAttribute>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID 9367b266-10ce-4650-920f-8ffce4b9b0c9</_id>
+			<_modifiedTimeWeak type="a">11.30.2020::14:26:30</_modifiedTimeWeak>
+			<_modifiedTime type="a">11.30.2020::14:26:30</_modifiedTime>
+			<_value type="a">0</_value>
+		</ILiteralSpecification>
 		<IAssociationEnd type="e">
 			<_id type="a">GUID fa6cf713-de2f-4899-a6ef-e38e6b87a92e</_id>
 			<_myState type="a">8192</_myState>
